@@ -13,8 +13,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL](https://philipjprice.github.io/)
+- [Solution URL](https://www.frontendmentor.io/solutions/react-and-tailwind---blog-preview-card-2ZhtoU9ay8)
+- [Live Site URL](https://philipjprice.github.io/Frontend-Mentor-Blog-Preview-Card/)
 
 ## My Process
 
