@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+body {
+	background-color: #F7D050;
+}
+
+.banner {
+	background-color: #F7D050;
+}
+
+.text {
+	color: #F7D050;
+}
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center;
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+
+@font-face {
+	font-famiy: 'Figtree';
+	src: url('./assets/fonts/Figtree-VariableFont_wght.ttf');
+}
+
+@font-face {
+	font-family: 'Figtree-Italics';
+	src: url('./assets/fonts/Figtree-Italic-VariableFont_wght.ttf');
+}
+
+.figtree {
+	font-family: 'Figtree', sans-serif;
+}
+
+.figtree_italics {
+	font-family: 'Figtree-Italics', sans-serif;
+}
