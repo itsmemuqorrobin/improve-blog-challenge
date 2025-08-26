@@ -1,13 +1,44 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # Frontend-Mentor-Blog-Preview-Card
+
+## Overview
+
+### The Challenge
+
+Your challenge is to build out a blog preview card component and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+
+### Links
+
+- [Solution URL]()
+- [Live Site URL](https://philipjprice.github.io/)
+
+## My Process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS/Tailwind
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+Implementing HTML and CSS (Tailwind) in a React project and including fonts and styling.
+
+### Continued development
+
+Furthering development in React and Tailwind classes.
+
+### Useful Resources
+
+- Google Search for Tailwind Classes and importing fonts into React project
+
+## Author
+
+- Website - [Deutro](https://www.deutro.com)
+- Frontend Mentor - [@PhilipJPrice](https://www.frontendmentor.io/profile/PhilipJPrice)
+- LinkedIn - [PhilipJustinPrice](https://linkedin.com/in/philipjustinprice/)
