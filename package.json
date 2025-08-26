@@ -1,5 +1,5 @@
 {
-	"homepage": "https://philipjprice.github.io/Frontend-Mentor-Blog-Preview-Card",
+  "homepage": "https://philipjprice.github.io/Frontend-Mentor-Blog-Preview-Card",
   "name": "01_1",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src",
-    "preview": "vite preview",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
