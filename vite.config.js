@@ -4,9 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-	base: '/Frontend-Mentor-Blog-Preview-Card/',
-  plugins: [
-		react(),
-		tailwindcss(),
-	],
+  plugins: [react(), tailwindcss()],
 })
