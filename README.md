@@ -1,4 +1,5 @@
 # Frontend-Mentor-Blog-Preview-Card
+<img width="367" height="481" alt="blog-preview-card" src="https://github.com/user-attachments/assets/4d03a90f-9bef-4933-b8b1-c7ccd68f79e3" />
 
 ## Overview
 
