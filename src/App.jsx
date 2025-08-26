@@ -6,7 +6,7 @@ import avatar from './assets/images/image-avatar.webp'
 export function App() {
   return (
     <div class='flex justify-center items-center min-h-screen'>
-      <a href='#' class='w-84 bg-white rounded-xl p-5 border group'>
+      <a href='#' class='w-84 bg-white rounded-xl p-5 border group' id='box'>
         <img
           class='rounded-lg mb-5'
           src={illustration}
